@@ -1,0 +1,19 @@
+{
+  "name": "myridemate — Explore. Ride. Connect.",
+  "short_name": "myridemate",
+  "description": "Carte OpenStreetMap et trajets en mode invité, sans inscription.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#0759d8",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
